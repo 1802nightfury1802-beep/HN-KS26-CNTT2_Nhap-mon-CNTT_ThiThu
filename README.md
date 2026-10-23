@@ -19,8 +19,3 @@ Dự án quản lý và vận hành hệ thống **văn phòng phẩm trực tuy
 ```
 Get-ChildItem -Recurse -Force
 ```
-
-
-
-```powershell
-Get-ChildItem -Recurse -Force
