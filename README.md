@@ -4,7 +4,7 @@
 
 Dự án quản lý và vận hành hệ thống **văn phòng phẩm trực tuyến**, xử lý dữ liệu đơn hàng và *báo cáo log sự cố*.
 
-## Cấu trúc thư mục
+## Cấu trúc thư mục:
 
 | Thư mục / File | Nội dung / Chức năng |
 | :--- | :--- |
@@ -14,7 +14,7 @@ Dự án quản lý và vận hành hệ thống **văn phòng phẩm trực tuy
 | `media/` | Chứa tài nguyên hình ảnh, logo dự án |
 | `backup/` | Bản sao lưu dự phòng các tài nguyên quan trọng |
 
-## Kiểm tra cấu trúc dự án
+## Kiểm tra cấu trúc dự án:
 
 ```
 Get-ChildItem -Recurse -Force
