@@ -20,7 +20,8 @@ Dự án quản lý và vận hành hệ thống **văn phòng phẩm trực tuy
 Get-ChildItem -Recurse -Force
 ```
 
-##Danh sách công việc (Task List)
+## Danh sách công việc (Task List): 
+
 [x] Chuẩn hoá tên file và tổ chức cấu trúc thư mục
 
 [x] Lọc log sự cố và hoàn thiện script tự động hóa
